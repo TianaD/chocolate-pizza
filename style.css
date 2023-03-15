@@ -1,0 +1,25 @@
+.p1 {
+    font-family: cursive;
+}
+
+
+/* 
+.flexBox{
+    display: flex;
+    
+} */
+
+
+
+.flexBoxForNavigation1{
+    display: flex;
+    justify-content: right;
+}
+
+
+.flexBoxForNavigation2{
+    display: flex;
+    justify-content: right;
+
+}
+
